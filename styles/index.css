@@ -1265,6 +1265,12 @@ medidas para tablet*/
         margin-left: 100pc;
     }
 }
+@media only screen and (min-width: 2100px) and (max-width: 3000px){
+    .initial-text{
+        margin: -8% 0 0 33%;
+    }
+}
+
 
 
 
